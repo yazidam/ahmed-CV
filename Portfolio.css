@@ -1,0 +1,46 @@
+body{
+    background-color:lightslategray ;
+
+}
+li{
+    display: inline;
+}
+a:hover{
+    background-color: lemonchiffon;
+    color: darkseagreen;
+    font-size: 30px;
+}
+h1{
+    color: burlywood;
+}
+h3{
+
+    text-decoration: underline;
+    color: burlywood;
+}
+
+h4{
+
+    text-decoration: underline;
+    color: blanchedalmond;
+}
+legend{
+    text-shadow: 2px 2px 4px #220A47;
+}
+fieldset{
+    border-color: #804AA5;
+    border-width: 2px;
+    margin-left: 300px;
+    margin-right:300px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    padding-top: 75px;
+
+}
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color:#5D6FA9;
+    color: white;
+
+}
